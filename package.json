@@ -14,5 +14,11 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/turkardg/cloudCourse/issues"
-  }
+  },
+
+	"dependencies": {
+        "express": ">= 1.2.0",
+	"body-parser" : ">= 1.0.2"
+	}
 }
+	
